@@ -26,8 +26,8 @@ const AboutPage = (props) => {
         {/* Hero Container */}
         <Hero
           maxWidth={'900px'}
-          image={'/about.png'}
-          title={`Sydney \n A British brand since 1860`}
+          image={'/house.png'}
+          title={`Rusty \n A metal ass house`}
         />
 
         <div className={styles.navContainer}>
